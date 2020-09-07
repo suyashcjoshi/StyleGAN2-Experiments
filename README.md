@@ -2,7 +2,7 @@
 Google Colab Notebook to play with StyleGAN for generating images and videos. Provide your own image and experiment with code in the notebook.
 
 ### How to Run: Download and run locally or click below to run on Google Colab using your Google Account
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PlvXkqgxyvJytA7muvdYuAznjCHnAa2B?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fsgfkYJ1iBZRiWFVQ27oypK0kubmr_rm?usp=sharing]
 
 
 ### Example Input : Suyash Joshi's Portrait Image experimentation with StyleGAN2
