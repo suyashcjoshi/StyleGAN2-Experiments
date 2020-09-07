@@ -5,10 +5,10 @@ Google Colab Notebook to play with StyleGAN for generating images and videos. Pr
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fsgfkYJ1iBZRiWFVQ27oypK0kubmr_rm?usp=sharing]
 
 
-### Example Input : Suyash Joshi's Portrait Image experimentation with StyleGAN2
+### Example Input : Suyash Joshi's Portrait Image 
 ![Suyash Joshi - Portrait Image](https://github.com/suyashjoshi/StyleGAN2-Experiments/blob/master/sj-portrait.png?raw=true)
 
-### Outputs : Aligns the face and generated from the Latent Space
+### Outputs : Aligns the face and generated a fake version of me from the Latent Space
 
 <img src="https://github.com/suyashjoshi/StyleGAN2-Experiments/blob/master/sj-StyleGAN_Generated.png?raw=true" width="460">
 
